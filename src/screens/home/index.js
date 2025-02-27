@@ -33,3 +33,8 @@ export default function Home(){
 
     )
 };
+
+//Criando os estilo
+const styles = StyleSheet.create({
+
+})
