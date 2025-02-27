@@ -29,4 +29,12 @@ export default function Home(){
 
         <TouchableOpacity>Calcular</TouchableOpacity>
 
- 
+    </SafeAreaView>
+
+    )
+};
+
+//Criando os estilo
+const styles = StyleSheet.create({
+
+})
